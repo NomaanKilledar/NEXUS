@@ -1,0 +1,16 @@
+{
+    "app": {
+        "name": "NEXUS",
+        "version": "1.0.0",
+        "log_enabled": true
+    },
+    "network": {
+        "timeout": 5
+    },
+    "web": {
+        "timeout": 10
+    },
+    "reports": {
+        "directory": "reports"
+    }
+}
